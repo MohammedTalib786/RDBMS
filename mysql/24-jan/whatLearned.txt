@@ -1,0 +1,3 @@
+Learned Full Join, Left Exclusive and Right Evclusive Join And Full Exclusive Join.
+
+Learned all 7 types of joins and will learn self join later

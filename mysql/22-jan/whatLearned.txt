@@ -1,0 +1,2 @@
+understand about joins
+and learned inner join and alias

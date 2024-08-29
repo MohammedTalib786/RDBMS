@@ -1,0 +1,3 @@
+leaned Select and Select Distinct Keyword 
+Where Clause
+Arthmetic and Comparison Operators (will Learn Logical Operators Tommorrow)

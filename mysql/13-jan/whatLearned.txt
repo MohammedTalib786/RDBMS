@@ -1,0 +1,1 @@
+keys primary and foreign and update table (taste) drop table 

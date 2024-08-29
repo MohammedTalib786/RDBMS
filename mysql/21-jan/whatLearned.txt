@@ -1,0 +1,13 @@
+revise Update Query. 
+Learn Delete row and Drop Table Query
+Truncate Table
+And learned
+
+Alter Queries:
+ADD COLUMN
+DROP COLUMN
+RENAME TO (rename table)
+CHANGE COLUMN (rename column)
+MODIFY
+
+MySQL shell
